@@ -52,3 +52,4 @@
 
 - <https://pixabay.com/> （免费的高清图片）
 - <http://algo-visualizer.jasonpark.me/>（Algorithm Visualizer）
+- <http://www-history.mcs.st-andrews.ac.uk/Curves/Curves.html>（数学公式）
