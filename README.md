@@ -53,3 +53,9 @@
 - <https://pixabay.com/> （免费的高清图片）
 - <http://algo-visualizer.jasonpark.me/>（Algorithm Visualizer）
 - <http://www-history.mcs.st-andrews.ac.uk/Curves/Curves.html>（数学公式）
+
+
+# to learn
+
+- [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
+- [jQuery source viewer](http://james.padolsey.com/jquery/) （可以看 jQuery 具体方法的源码）
