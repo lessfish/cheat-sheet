@@ -5,6 +5,7 @@
 - [小胡子哥](http://www.barretlee.com/)
 - [颜海镜](http://yanhaijing.com/)
 - [酷壳](http://coolshell.cn/)
+- [廖雪峰](http://liaoxuefeng.com/)
 - [AlloyTeam](http://www.alloyteam.com/)
 - [CSS-Tricks](https://css-tricks.com/)
 - [David Walsh](https://davidwalsh.name/)
@@ -57,5 +58,8 @@
 
 # to learn
 
-- [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
+- [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)（雅虎军规）
 - [jQuery source viewer](http://james.padolsey.com/jquery/) （可以看 jQuery 具体方法的源码）
+- [JS Tips – A JS tip per day!](http://www.jstips.co/zh_CN/)
+- [DevDocs](http://devdocs.io/)（前端各种文档）
+- [前端 TOP 100](https://www.awesomes.cn/rank)（前端最热门框架）
