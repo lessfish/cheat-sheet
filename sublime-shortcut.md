@@ -1,0 +1,36 @@
+- 光标移到行尾 End
+- 光标移到行首 Home
+- 选中当前单词 ctrl+d
+- 回退(针对 ctrl+d) ctrl+u（ps：sublime3 失效？）
+- 跳过当前单词 ctrl+k ctrl+d（针对连续 ctrl+d 删选多个相同单词）
+- 删除后一个单词 ctrl+delete
+- 删除前一个单词 ctrl+Backspace
+- 删除光标后该行所有 两次 ctrl+k
+- 删除光标前该行所有 ctrl+k ctrl+Backspace
+- 选中所有相同的单词 alt+f3（跟一直 ctrl+d 功能类似）
+- 多行游标 shitf+鼠标右键+向下拖动
+- 选中当前行 ctrl+l
+- 复制当前行 ctrl+shift+d（ctrl+c ctrl+v）
+- 删除当前行 ctrl+shift+k
+- 和下一行合并 ctrl+j
+- 当前行上下移动（换行） ctrl+shift+up ctrl+shift+down
+- 加选上下行 shift+up/down
+- 在上行添加空行 ctrl+shift+enter
+- 在下行添加空行 ctrl+enter
+- 打开文件 ctrl+p
+- 跳到具体行 ctrl+g
+- 缩进 tab/shift+tab ctrl+[ / ctrl+]
+- 单行注释 ctrl+/
+- 块注释 ctrl+shift+/
+- 代码折叠 ctrl+shift+[ / ctrl+shift+]
+- 代码大写 ctrl+k ctrl+u(uppercase)
+- 代码小写 ctrl+k ctrl+l(lowercase)
+- 侧边栏（左） ctrl+k ctrl+b
+- 粘贴代码并保持缩进 ctrl+shift+v
+- 闭合标签 alt+.
+- 定位js函数 ctrl+r
+- 正则替换 ctrl+h 
+- 逐词移动 ctrl+←/→ 
+- 逐词选择 Ctrl + Shift + ←/→
+- 分屏 shift+alt+f2/f3/f4/f8
+- 从文件夹中查找某个单词 ctrl+shift+f
