@@ -60,3 +60,9 @@
 - [Feedly Notifier](https://chrome.google.com/webstore/detail/feedly-notifier/egikgfbhipinieabdmcpigejkaomgjgb)（经常上不去，我要开始用上面这个了）
 - [网页截图:注释&批注](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj)（对比下来，一款还算不错的网页截图工具）
 - [Pixlr Editor](https://chrome.google.com/webstore/detail/pixlr-editor/icmaknaampgiegkcjlimdiidlhopknpk?utm_source=chrome-app-launcher-info-dialog)（图片处理工具，穷人版 PS）
+
+
+# more
+
+- [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github/blob/master/README.md)
+
