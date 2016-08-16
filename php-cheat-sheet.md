@@ -1,0 +1,2 @@
+- `file_get_contents($url)` 获取一个 URI 对应的内容（string 形式返回）
+- `file_put_contents($url, "hello world")` 写入文件

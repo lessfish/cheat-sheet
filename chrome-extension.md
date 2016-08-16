@@ -21,7 +21,7 @@
 - [为什么你们就是不能加个空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd)
 - [远方 New Tab](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn)（每天打开新页面都是一段不期而遇的旅行）
 - [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=zh-CN)（网站 Alexa 排名）
-- [眼睛护航](https://chrome.google.com/webstore/detail/care-your-eyes/fidmpnedniahpnkeomejhnepmbdamlhl)
+- [眼睛护航](https://chrome.google.com/webstore/detail/care-your-eyes/fidmpnedniahpnkeomejhnepmbdamlhl)（启动夜间模式，虽然有些许 bug，瑕不掩瑜）
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)（The Hacker's Browser. Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim. 键盘流必备）
 - [Tab Resize - split screen layouts](https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc)（我用过的最好的分屏扩展）
 - [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh)（Resize browser window to emulate various screen resolutions 模拟各种尺寸的屏幕）
@@ -66,3 +66,7 @@
 
 - [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github/blob/master/README.md)
 
+
+# notice
+
+扩展尽量少装，只装最合适的，再小的扩展都要吃内存，不行请看 <chrome://memory-redirect/>

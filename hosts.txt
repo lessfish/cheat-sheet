@@ -1,5 +1,5 @@
 # Copyright (c) 1993-2009 Microsoft Corp.
-#
+# C:\Windows\System32\drivers\etc\hosts
 
 #######################################################################
 #google hosts 2015.07.22

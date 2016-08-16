@@ -29,8 +29,8 @@
 - 粘贴代码并保持缩进 ctrl+shift+v
 - 闭合标签 alt+.
 - 定位js函数 ctrl+r
-- 正则替换 ctrl+h 
-- 逐词移动 ctrl+←/→ 
+- 正则替换 ctrl+h
+- 逐词移动 ctrl+←/→
 - 逐词选择 Ctrl + Shift + ←/→
-- 分屏 shift+alt+f2/f3/f4/f8
+- 分屏 shift+alt+2/3/4/8
 - 从文件夹中查找某个单词 ctrl+shift+f
