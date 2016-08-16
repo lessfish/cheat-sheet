@@ -73,4 +73,4 @@
 
 # notice
 
-扩展尽量少装，只装最合适的，再小的扩展都要吃内存，不行请看 <chrome://memory-redirect/>
+扩展尽量少装，只装最合适的，再小的扩展都要吃内存，不信请看 <chrome://memory-redirect/>

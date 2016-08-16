@@ -13,6 +13,7 @@
 
 # 资讯
 
+- [Hacker New](https://news.ycombinator.com/)
 - [echojs](http://www.echojs.com/)
 - [reddit](https://www.reddit.com/r/javascript)
 - [smashingmagazine](https://www.smashingmagazine.com/tag/javascript/)
