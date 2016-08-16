@@ -47,6 +47,9 @@
 - [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) （看起来好像是 [Cookies](https://chrome.google.com/webstore/detail/cookies/iphcomljdfghbkdcfndaijbokpgddeno) 好用）
 - [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)（一键快速清除缓存等浏览器信息，可以自己定制）
 - [Allow-Control-Allow-Origin: *](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi)（Allows to you request any site with ajax from any source. Adds to response 'Allow-Control-Allow-Origin: *' header）
+- [Avatars for Github](https://chrome.google.com/webstore/detail/avatars-for-github/pgjmdbklnfklcjfbonjfkdhaonlfogbb?utm_source=chrome-ntp-icon) （Displaying user avatars in github news feed page）
+- [Isometric Contributions](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien?utm_source=chrome-ntp-icon) （Renders an isometric pixel view of GitHub contribution graphs）
+
 
 ### 其他
 
@@ -60,6 +63,7 @@
 - [Feedly Notifier](https://chrome.google.com/webstore/detail/feedly-notifier/egikgfbhipinieabdmcpigejkaomgjgb)（经常上不去，我要开始用上面这个了）
 - [网页截图:注释&批注](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj)（对比下来，一款还算不错的网页截图工具）
 - [Pixlr Editor](https://chrome.google.com/webstore/detail/pixlr-editor/icmaknaampgiegkcjlimdiidlhopknpk?utm_source=chrome-app-launcher-info-dialog)（图片处理工具，穷人版 PS）
+- [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-website-rankin/hoklmmgfnpapgjgcpechhaamimifchmp?utm_source=chrome-ntp-icon) （和 Alexa Traffic Rank 类似）
 
 
 # more
