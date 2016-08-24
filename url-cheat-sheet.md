@@ -19,6 +19,14 @@
 - [smashingmagazine](https://www.smashingmagazine.com/tag/javascript/)
 
 
+# Algorithm
+
+- [LeetCode Online Judge](https://leetcode.com/)
+- [codility](https://codility.com/)
+- [codeforces](http://codeforces.com/)
+  - [JavaScript 也来挑战 ACM](http://www.html-js.com/article/Nodejs-abnormal-laboratory-JavaScript-to-challenge-ACM)
+
+
 # 在线工具
 
 - <http://tool.css-js.com/> （css js 美化 & 压缩）
@@ -34,7 +42,7 @@
 - <http://tool.lu/> （在线工具集合）
 
 
-# icons 
+# icons
 
 - <http://www.easyicon.net/>
 - <https://www.iconfinder.com/>
@@ -45,7 +53,7 @@
 # films
 
 - <http://www.bthand.com/>
-- <http://www.bttiantang.com/>	
+- <http://www.bttiantang.com/>
 - <http://www.xiaopian.com/>
 - <http://www.cilibaba.com/>
 
