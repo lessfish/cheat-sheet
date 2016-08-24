@@ -1,3 +1,1 @@
-- [url](https://github.com/hanzichi/personal-collections/blob/master/url.md)
-- [chrome extension](https://github.com/hanzichi/personal-collections/blob/master/chrome-extension.md)
-- [hosts for Google](https://github.com/hanzichi/personal-collections/blob/master/hosts.txt)
+Poor man's personal collections for a quick reference.
