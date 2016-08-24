@@ -70,7 +70,7 @@ Common Name (eg, YOUR name) []:www.abc.com
 Email Address []:abc@abc.com
 ```
 
-CA 为网站签署证书。最后在 bin 目录下创建 `demoCA`  文件夹，文件夹内包含 `index.txt`（空文件），`serial`（内容为 01，无后缀名），空文件夹 `newcerts`，然后执行命令，生成 **server.crt **：
+CA 为网站签署证书。最后在 bin 目录下创建 `demoCA`  文件夹，文件夹内包含 `index.txt`（空文件），`serial`（内容为 01，无后缀名），空文件夹 `newcerts`，然后执行命令，生成 **server.crt**：
 
 ```
 openssl req -x509 -days 365 -key server.key -in server.csr > server.crt
