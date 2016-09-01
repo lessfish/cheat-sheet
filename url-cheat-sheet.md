@@ -9,6 +9,7 @@
 - [AlloyTeam](http://www.alloyteam.com/)
 - [CSS-Tricks](https://css-tricks.com/)
 - [David Walsh](https://davidwalsh.name/)
+- [JavaScript Kit](http://www.javascriptkit.com/)
 
 
 # 资讯
