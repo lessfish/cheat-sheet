@@ -21,4 +21,4 @@
 ## Read more:
 
 - [PhantomJS - 阮一峰](http://javascript.ruanyifeng.com/tool/phantomjs.html)
-- [End To End Testing with PhantomJS and CasperJS](http://thejsguy.com/2015/02/28/end-to-end-testing-with-phantomsjs-and-casperjs.htm
+- [End To End Testing with PhantomJS and CasperJS](http://thejsguy.com/2015/02/28/end-to-end-testing-with-phantomsjs-and-casperjs.htm)
