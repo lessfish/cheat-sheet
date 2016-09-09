@@ -1,0 +1,61 @@
+# Vimium shortcut
+
+## Navigating the page
+
+- j 向下滚动
+- k 向上滚动
+- d 向下滚动半页
+- u 向上滚动半页
+- gg 滚到页面最上，相当于 Home 键
+- G 滚到页面最下，相当于 End 键
+- r 重载，刷新页面，相当于 Ctrl+R
+- yy 复制当前 URL，相当于 Ctrl+L， Ctrl+C
+- p 在当前页面打开 yy 复制的 URL
+- P 在新的 tab 打开 yy 复制的 URL
+- gu 去当前 URL 的上一级
+- gU 去当前 URL 的根 URL 
+- gi 获取页面第一个文本框的焦点
+- f & i 在新的 tab 打开链接（去新的 tab 页）/ i 取消
+- F & i 在新的 tab 打开链接（还是在当前页） / i 取消
+- yf 可复制当前页面的任意链接
+- gf 找出当前页面的 iframe
+- gF 找出当前页面的顶级 iframe
+
+
+## Using the vomnibar
+
+- o 打开 URL，书签或者历史记录
+- O 同上，新的标签页
+- b 打开书签
+- B 同上，新的标签页
+- T 在打开的标签页中进行寻找
+- ge 修改当前 URL，跳转到新的页面
+- gE 修改当前 URL，在新的标签打开新的页面
+
+
+## Navigating history
+
+- H 后退，当前与 Backspace 键
+- L 前进
+
+
+## Manipulating tabs
+
+- t 在当前标签页右边打开新的标签页，Ctrl+R 会在最右边打开新的标签页
+- J 去左边的标签页（但是碰到空的 tab 页就跪了）
+- K 去右边的标签页（同上）
+- ^ 去上一个访问过的标签页
+- g0 去第一个标签页
+- g$ 去最后一个标签页
+- yt 在新的 tab 页打开当前页面
+- x 关闭当前标签页，相当于 Ctrl+W
+- X 恢复刚才关闭的标签页，相当于 Ctrl+Shift+T，但是如果 x 后页面位于新的 tab 页，就不起效了
+- W 将当前页面用新的窗口打开
+- << 左移当前标签页
+- >> 右移当前标签页
+
+
+## Miscellaneous
+
+- ? Show help
+- gs 看源码，相当于 Ctrl+U
