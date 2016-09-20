@@ -60,6 +60,11 @@
 - <http://www.cilibaba.com/>
 
 
+# CDN
+
+- [BootCDN](http://www.bootcdn.cn/) （支持 HTTPS）
+
+
 # urls
 
 - <https://pixabay.com/> （免费的高清图片）
