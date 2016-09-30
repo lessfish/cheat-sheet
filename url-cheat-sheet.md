@@ -70,6 +70,7 @@
 - <https://pixabay.com/> （免费的高清图片）
 - <http://algo-visualizer.jasonpark.me/>（Algorithm Visualizer）
 - <http://www-history.mcs.st-andrews.ac.uk/Curves/Curves.html>（数学公式）
+- [RawGit](https://rawgit.com/)
 
 
 # to learn
@@ -81,8 +82,11 @@
 - [前端 TOP 100](https://www.awesomes.cn/rank)（前端最热门框架）
 - <https://alf.nu/ReturnTrue> （一个学习 xss 的网站）
 - [前端导航网](http://jsdig.com/)
+- [JavaScript 术语](http://jargon.js.org/)
+- [JavaScript 学习资源](https://stats.js.org/) （闲的蛋疼的可以按照这个列表一个一个学）
 
 
 # Others
 
-[TED: Ideas worth spreading](http://www.ted.com/)
+- [TED: Ideas worth spreading](http://www.ted.com/)
+- [卓美网-摄影器材网购优选](http://www.zm7.cn/)
