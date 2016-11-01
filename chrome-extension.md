@@ -27,7 +27,7 @@
 - [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh)（Resize browser window to emulate various screen resolutions 模拟各种尺寸的屏幕）
 - [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)（Free Password Manager）
 - [Minimalist Markdown Editor](https://chrome.google.com/webstore/detail/minimalist-markdown-edito/pghodfjepegmciihfhdipmimghiakcjf?utm_source=chrome-app-launcher-info-dialog)（目前在用的 markdown 编辑器）
-
+- [v2ex plus](https://chrome.google.com/webstore/detail/v2ex-plus/daeclijmnojoemooblcbfeeceopnkolo/related)（v 站灌水必备）
 
 
 

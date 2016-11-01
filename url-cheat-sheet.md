@@ -42,6 +42,7 @@
 - <http://tool.lu/highlight/> （将代码富文本化）
 - <http://tool.lu/timestamp/> （时间戳转换）
 - <http://tool.lu/> （在线工具集合）
+- <http://www.atool.org/> (另一个在线工具集合)
 
 
 # icons
@@ -84,9 +85,12 @@
 - [前端导航网](http://jsdig.com/)
 - [JavaScript 术语](http://jargon.js.org/)
 - [JavaScript 学习资源](https://stats.js.org/) （闲的蛋疼的可以按照这个列表一个一个学）
+- <http://bestof.js.org/>
+- <https://js.foundation/projects/>
 
 
 # Others
 
 - [TED: Ideas worth spreading](http://www.ted.com/)
 - [卓美网-摄影器材网购优选](http://www.zm7.cn/)
+- <https://npms.io/>（说到挑选 npm 模块，推荐 npms.io，综合了很多数据给模块打分，搜索结果按打分排序，比较靠谱）
