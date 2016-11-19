@@ -7,14 +7,13 @@
 - Broswer（Chrome、Firefox、360 etc）
 - Wampserver（for windows）
 - HeidiSQL
-- Xmind / 百度脑图
+- XMind / 百度脑图
 - FileZilla（FTP）
 
 
 ### 非开发
 
-- QQ
-- Wechat
+- QQ / Wechat
 - Foxmail
 - QQ 音乐 / 网易云音乐 / 虾米音乐
 - 暴风影音

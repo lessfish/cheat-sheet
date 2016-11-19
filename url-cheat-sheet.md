@@ -78,6 +78,7 @@
 
 - [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)（雅虎军规）
 - [jQuery source viewer](http://james.padolsey.com/jquery/) （可以看 jQuery 具体方法的源码）
+- <http://youmightnotneedjquery.com/>
 - [JS Tips – A JS tip per day!](http://www.jstips.co/zh_CN/)
 - [DevDocs](http://devdocs.io/)（前端各种文档）
 - [前端 TOP 100](https://www.awesomes.cn/rank)（前端最热门框架）
@@ -87,6 +88,9 @@
 - [JavaScript 学习资源](https://stats.js.org/) （闲的蛋疼的可以按照这个列表一个一个学）
 - <http://bestof.js.org/>
 - <https://js.foundation/projects/>
+- <https://overapi.com/>（Collecting All Cheat Sheets）
+- <https://regexper.com/>
+
 
 
 # Others
