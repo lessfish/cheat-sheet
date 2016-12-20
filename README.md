@@ -1,1 +1,1 @@
-Poor man's personal collections for a quick reference.
+Personal collections for a quick reference.
