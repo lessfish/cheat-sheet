@@ -6,6 +6,7 @@
 - [Website IP](https://chrome.google.com/webstore/detail/website-ip/ghbmhlgniedlklkpimlibbaoomlpacmk)（查看网站 IP）
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)（Extension to show code tree for GitHub and GitLab.）
 - [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp)（在 GitHub 的代码中，给引入的第三方文件加个链接，点击可以直接跳过去）
+- [Porter Plug](https://chrome.google.com/webstore/detail/porter-plug/lngoojfoglemfpbeiomhgheccpdheilp?utm_source=chrome-app-launcher-info-dialog)（stars 趋势的图表展示）
 - [WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad)（前端各种小工具合集）
 - [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)（A simple CSS property viewer.）
 - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?utm_source=chrome-app-launcher-info-dialog)（强大的 API 接口调试工具）
@@ -64,7 +65,7 @@
 - [网页截图:注释&批注](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj)（对比下来，一款还算不错的网页截图工具）
 - [Pixlr Editor](https://chrome.google.com/webstore/detail/pixlr-editor/icmaknaampgiegkcjlimdiidlhopknpk?utm_source=chrome-app-launcher-info-dialog)（图片处理工具，穷人版 PS）
 - [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-website-rankin/hoklmmgfnpapgjgcpechhaamimifchmp?utm_source=chrome-ntp-icon) （和 Alexa Traffic Rank 类似）
-
+- [惠惠购物助手](https://chrome.google.com/webstore/detail/%E6%83%A0%E6%83%A0%E8%B4%AD%E7%89%A9%E5%8A%A9%E6%89%8B/ohjkicjidmohhfcjjlahfppkdblibkkb?utm_source=chrome-app-launcher-info-dialog)（同款商品价格对比）
 
 # more
 
