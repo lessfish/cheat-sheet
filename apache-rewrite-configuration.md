@@ -1,4 +1,4 @@
-# RewriteEngine 
+# RewriteEngine
 
 rewrite 的总开关，用来开启 url rewrite，想要打开，这样就可以了：
 
@@ -22,7 +22,7 @@ RewriteRule  index.php   index.m.php
 RewriteCond 和 RewriteRule 是上下对应的关系。可以有 1 个或者好几个 RewriteCond 来匹配一个 RewriteRule。
 
 
-# HTTP_REFERER 
+# HTTP_REFERER
 
 这个匹配访问者的地址，php 中 $_REQUREST 中也有这个，当我们需要判断或者限制访问的来源的时候，就可以用它。
 
@@ -54,7 +54,7 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^room/video/(\d+)\.html web/index\.php?c=room&a=video&r=$1 [QSA,NC,L]
 ```
 
-- -d 是否是一个目录. 判断 TestString 是否不是一个目录可以这样: !-d 
+- -d 是否是一个目录. 判断 TestString 是否不是一个目录可以这样: !-d
 - -f 是否是一个文件. 判断 TestString 是否不是一个文件可以这样: !-f
 
 这两句语句 RewriteCond 的意思是请求的文件或路径如果存在，返回已经存在的文件或路径，如果不存在，则执行 RewriteRule  的重定向。

@@ -11,7 +11,7 @@
 - conf/openssl.cnf
 - modules/mod_ssl.so
 
-以 http://www.abc.com 为例，假设已经在 vhosts 中配置，可在本地访问  http://www.abc.com 
+以 http://www.abc.com 为例，假设已经在 vhosts 中配置，可在本地访问  http://www.abc.com
 
 # 2、为网站生成证书和私钥
 
@@ -131,7 +131,7 @@ ServerAdmin abc@abc.com
 
 重启 Apache，访问 https://www.abc.com
 
---- 
+---
 
 thinking：是否只需要 server.key, server.csr, server.crt 三个文件？
 

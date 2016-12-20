@@ -1,3 +1,5 @@
+# chart libraries
+
 - d3 （html、css、svg 学习成本大 适用于大型业务）
 - canvas.js  （<http://canvasjs.com/>）
 - highcharts  （基于 HTML5/SVG/VML <http://www.hcharts.cn/>）
@@ -9,4 +11,4 @@
 
 Chart.js 适用于小项目，扁平化，干净，优雅，快速。它是一个微型的开源库，最小化压缩后只有11kb大小。它包括六个核心图表类型（线图，柱图，雷达图，极地图，饼图和环形图），每个都是独立的模块，所以你甚至可以只加载项目需要的模块以最大化缩小代码占用空间。它使用HTML5 canvas元素渲染图表，并且使用 polyfills 方式兼容在 IE7/8 上运行。所有图表都是可响应的。
 
- 绘制矢量图的不同技术愈发成熟：VML、SVG 和 Canvas。
+绘制矢量图的不同技术愈发成熟：VML、SVG 和 Canvas。

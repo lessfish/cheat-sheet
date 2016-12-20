@@ -5,7 +5,7 @@
 - Sublime
 - Fiddler
 - Broswer（Chrome、Firefox、360 etc）
-- Wampserver（for windows）
+- Wampserver
 - HeidiSQL
 - XMind / 百度脑图
 - FileZilla（FTP）

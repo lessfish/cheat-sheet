@@ -1,2 +1,6 @@
 - `file_get_contents($url)` 获取一个 URI 对应的内容（string 形式返回）
 - `file_put_contents($url, "hello world")` 写入文件
+- mb_strlen 计算有中文的字符串的长度
+- mb_convert_variables 编码转换
+- json_decode($html, true) 加第二个参数，针对有对象的情况
+- json_encode json_decode 只能用在 GBK 上？
