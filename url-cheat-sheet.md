@@ -25,8 +25,7 @@
 
 - [LeetCode Online Judge](https://leetcode.com/)
 - [codility](https://codility.com/)
-- [codeforces](http://codeforces.com/)
-  - [JavaScript 也来挑战 ACM](http://www.html-js.com/article/Nodejs-abnormal-laboratory-JavaScript-to-challenge-ACM)
+- [codeforces](http://codeforces.com/) （[JavaScript 也来挑战 ACM](http://www.html-js.com/article/Nodejs-abnormal-laboratory-JavaScript-to-challenge-ACM)）
 
 
 # 在线工具
@@ -89,8 +88,7 @@
 - <http://bestof.js.org/>
 - <https://js.foundation/projects/>
 - <https://overapi.com/>（Collecting All Cheat Sheets）
-- <https://regexper.com/>
-
+- <http://regexr.com/> <https://regexper.com/>
 
 
 # Others
@@ -98,3 +96,4 @@
 - [TED: Ideas worth spreading](http://www.ted.com/)
 - [卓美网-摄影器材网购优选](http://www.zm7.cn/)
 - <https://npms.io/>（说到挑选 npm 模块，推荐 npms.io，综合了很多数据给模块打分，搜索结果按打分排序，比较靠谱）
+- <https://libraries.io/>（好东西）

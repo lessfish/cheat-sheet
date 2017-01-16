@@ -12,6 +12,7 @@
 - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?utm_source=chrome-app-launcher-info-dialog)（强大的 API 接口调试工具）
 - [Cookies](https://chrome.google.com/webstore/detail/cookies/iphcomljdfghbkdcfndaijbokpgddeno?utm_source=chrome-app-launcher-info-dialog)（A powerful and easy-to-use Cookie Editor.）
 - [Lucidchart 离线图表](https://chrome.google.com/webstore/detail/lucidchart-diagrams-deskt/djejicklhojeokkfmdelnempiecmdomj?utm_source=chrome-app-launcher-info-dialog)（在线和离线绘制流程图、实体模型、UML、思维导图与更多图表的最便捷方式。）
+- [Scratch JS](https://chrome.google.com/webstore/detail/scratch-js/alploljligeomonipppgaahpkenfnfkn?hl=zh-CN)（可以在 chrome 的控制台及时编译 ES6 到 ES5）
 
 
 ### 其他

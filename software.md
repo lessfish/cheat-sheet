@@ -9,7 +9,7 @@
 - HeidiSQL
 - XMind / 百度脑图
 - FileZilla（FTP）
-
+- Typora（Markdown）
 
 ### 非开发
 
