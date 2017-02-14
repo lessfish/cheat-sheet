@@ -2,9 +2,9 @@
 
 ### 开发
 
-- Sublime
+- Sublime / Atom / Notepad++
 - Fiddler
-- Broswer（Chrome、Firefox、360 etc）
+- Broswer（Chrome、Firefox、360）
 - Wampserver
 - HeidiSQL
 - XMind / 百度脑图
@@ -21,3 +21,9 @@
 - 看图王
 - 搜狗输入法
 - Flux（protect your eyes）
+- 迅雷
+- 暴风影音 / 迅雷看看
+- 边锋游戏
+- Keepass（保存密码）
+- Lantern
+
