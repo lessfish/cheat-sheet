@@ -7,14 +7,15 @@
 - DocBlockr （快速生成文档注释）
 - Emmet （快速生成 html 片段）<http://www.ruanyifeng.com/blog/2013/06/emmet_and_haml.html>
 - JsFormat （格式化 JavaScript）
-- SublimeCodeIntem （方法补全）
+- SublimeCodeIntel（方法补全）
 - Nodejs （针对 Nodejs 的 方法补全）
 - Side Bar （侧边栏右键扩展）
 - Themr （主题管理插件，要安装别的主题，先安装这个插件，方便许多）
 - Trailing Spaces （高亮代码中多余的空格，并可去除）
 - ConverToUTF8（文件编码转换）
 - Tag （html 标签补全）
-
+- SassBeautify（高亮 Sass 文件）
+- Vue Syntax Highlight（Vue 文件高亮）
 
 # other
 

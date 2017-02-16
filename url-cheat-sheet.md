@@ -42,6 +42,7 @@
 - <http://tool.lu/timestamp/> （时间戳转换）
 - <http://tool.lu/> （在线工具集合）
 - <http://www.atool.org/> (另一个在线工具集合)
+- <http://ezgif.com/video-to-gif>（video to gif）
 
 
 # icons
