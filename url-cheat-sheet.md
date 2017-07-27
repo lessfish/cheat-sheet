@@ -59,6 +59,7 @@
 - <http://www.bttiantang.com/>
 - <http://www.xiaopian.com/>
 - <http://www.cilibaba.com/>
+- <http://www.kmeiju.net/>
 
 
 # CDN
