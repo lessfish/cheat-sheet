@@ -60,6 +60,7 @@
 - <http://www.xiaopian.com/>
 - <http://www.cilibaba.com/>
 - <http://www.kmeiju.net/>
+- <http://www.zimuzu.tv/>
 
 
 # CDN
