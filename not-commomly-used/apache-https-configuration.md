@@ -1,4 +1,6 @@
-# 1、文件确认
+# 为 Apache 服务器配置 HTTPS 步骤
+
+## 1、文件确认
 
 本地搭建 HTTPS 环境，首先确认下三个必需的文件，在 Apache 的 bin 目录下。如果以下过程中有相应文件的报错，可以替换试下。我部署过程就出现了错误，说 "openssl.exe 找不到序数 无法定位序数 296 于动态链接库 SSLEAY32.dll 上" 这样的错误，然后把三个文件全部替换，就 ok 了。
 
@@ -13,7 +15,7 @@
 
 以 http://www.abc.com 为例，假设已经在 vhosts 中配置，可在本地访问  http://www.abc.com
 
-# 2、为网站生成证书和私钥
+## 2、为网站生成证书和私钥
 
 打开 cmd，cd 进入 Apache 下面的 bin 目录，运行以下命令，生成私钥 **server.key**：
 
@@ -44,7 +46,7 @@ A challenge password []:
 An optional company name []:
 ```
 
-# 3、通过 CA 为网站服务器签署证书
+## 3、通过 CA 为网站服务器签署证书
 
 以下命令生成 CA 私钥 **ca.key**：
 
@@ -87,12 +89,12 @@ openssl req -x509 -days 365 -key server.key -in server.csr > server.crt
 可以打开来看看，如果是空文件，那就是出错了。
 
 
-# 4、文件复制
+## 4、文件复制
 
 将 server.crt 和 server.key 两个文件复制到 Apache 的 conf 文件夹下。
 
 
-# 5、配置
+## 5、配置
 
 打开 Apache 的 httpd.conf 文件，将如下两行注释去掉。第一行是在 Apache 中引入 ssl 模块，第二行启动 https 配置文件，如果需要切换 http/https，可以选择切换此行注释。
 
@@ -127,7 +129,7 @@ ServerAdmin abc@abc.com
 上面这几行原来的地址指向的是 "C:/apache2..."，我也不造为什么，反正我 C 盘里就没 apache2 这个文件夹，导致我排错了好久 ...
 
 
-# 6、重启 Apache
+## 6、重启 Apache
 
 重启 Apache，访问 https://www.abc.com
 

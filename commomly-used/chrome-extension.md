@@ -41,15 +41,13 @@
 - [GitHub Awesome Autocomplete](https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd)（GitHub search 中的搜索联想，不过好像信息不大准确）
 - [GitHub Hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk)（hover GitHub 中的 user，或者 repo，能浮动显示他的一些信息）
 - [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp)（在 GitHub 的代码中，给引入的第三方文件加个链接，点击可以直接跳过去）
-- [HTTP Headers](https://chrome.google.com/webstore/detail/http-headers/mhbpoeinkhpajikalhfpjjafpfgjnmgk)（方便地查看网页 HTTP 头信息）
+- [HTTP Headers](https://chrome.google.com/webstore/detail/http-headers/mhbpoeinkhpajikalhfpjjafpfgjnmgk)（方便地查看网页 HTTP 头信息，但是有恶意广告，不建议用）
 - [BuiltWith Technology Profiler](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn)（Find out what the website you are visiting is built with using this extension.）
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)（Identifies software on the web）
-- [Chrome Sniffer Plus](https://chrome.google.com/webstore/detail/chrome-sniffer-plus/fhhdlnnepfjhlhilgmeepgkhjmhhhjkh)（探测当前网页正在使用的开源软件或者 js 类库，web 开发者必备神器。）
 - [HTML 标签检测器](https://chrome.google.com/webstore/detail/html-%E6%A0%87%E7%AD%BE%E6%A3%80%E6%B5%8B%E5%99%A8html-tag-checke/eglomijmggnafcfejliedcljabfgblia)（检查 HTML 标签是否闭合）
 - [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) （看起来好像是 [Cookies](https://chrome.google.com/webstore/detail/cookies/iphcomljdfghbkdcfndaijbokpgddeno) 好用）
 - [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)（一键快速清除缓存等浏览器信息，可以自己定制）
 - [Allow-Control-Allow-Origin: *](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi)（Allows to you request any site with ajax from any source. Adds to response 'Allow-Control-Allow-Origin: *' header）
-- [Avatars for Github](https://chrome.google.com/webstore/detail/avatars-for-github/pgjmdbklnfklcjfbonjfkdhaonlfogbb?utm_source=chrome-ntp-icon) （Displaying user avatars in github news feed page）
 - [Isometric Contributions](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien?utm_source=chrome-ntp-icon) （Renders an isometric pixel view of GitHub contribution graphs）
 - [Scratch JS](https://chrome.google.com/webstore/detail/scratch-js/alploljligeomonipppgaahpkenfnfkn?utm_source=chrome-app-launcher-info-dialog)（在控制台中，可以快速将 ES6 转为 ES5）
 

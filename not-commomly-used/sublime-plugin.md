@@ -25,3 +25,4 @@
 - [Sublime Text 有哪些使用技巧？](https://www.zhihu.com/question/24896283)
 - [Sublime Text 全程指引 by Lucida](http://www.cnblogs.com/figure9/p/sublime-text-complete-guide.html)
 - [jikeytang/sublime-text](https://github.com/jikeytang/sublime-text)
+- [seetings 和 packages 同步](http://utkarsh9891.github.io/PackageSync/)

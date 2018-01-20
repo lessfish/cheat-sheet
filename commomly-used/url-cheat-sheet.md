@@ -33,7 +33,6 @@
 - <http://tool.css-js.com/> （css js 美化 & 压缩）
 - <http://tool.lu/html/> （html 美化 & 压缩，html 转为 js 变量）
 - <http://tool.lu/js/>（js 美化，压缩，加密解密）
-- <http://dean.edwards.name/packer/>（js 混淆压缩）
 - <http://tool.lu/css/>（css 美化，压缩）
 - <http://tool.lu/json/> （json 格式化）
 - <http://www.json.cn/> （json 格式化）
@@ -55,11 +54,8 @@
 
 # films
 
-- <http://www.bthand.com/>
-- <http://www.bttiantang.com/>
 - <http://www.xiaopian.com/>
-- <http://www.cilibaba.com/>
-- <http://www.kmeiju.net/>
+- <http://www.msj1.com/>
 - <http://www.zimuzu.tv/>
 
 
@@ -73,7 +69,6 @@
 - <https://pixabay.com/> （免费的高清图片）
 - <http://algo-visualizer.jasonpark.me/>（Algorithm Visualizer）
 - <http://www-history.mcs.st-andrews.ac.uk/Curves/Curves.html>（数学公式）
-- [RawGit](https://rawgit.com/)
 
 
 # to learn

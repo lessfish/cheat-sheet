@@ -1,4 +1,6 @@
-# RewriteEngine
+# Apache 中的 Rewrite 使用简介
+
+## RewriteEngine
 
 rewrite 的总开关，用来开启 url rewrite，想要打开，这样就可以了：
 
@@ -7,7 +9,7 @@ RewriteEngine on
 ```
 
 
-# RewriteCond & RewriteRule
+## RewriteCond & RewriteRule
 
 表示指令定义和匹配一个规则条件，让 RewriteRule 来重写。说的简单点，RewriteCond 就像我们程序中的 if 语句一样，表示如果符合某个或某几个条件则执行 RewriteCond 下面紧邻的 RewriteRule 语句，这就是 RewriteCond 最原始、基础的功能。
 
@@ -22,7 +24,7 @@ RewriteRule  index.php   index.m.php
 RewriteCond 和 RewriteRule 是上下对应的关系。可以有 1 个或者好几个 RewriteCond 来匹配一个 RewriteRule。
 
 
-# HTTP_REFERER
+## HTTP_REFERER
 
 这个匹配访问者的地址，php 中 $_REQUREST 中也有这个，当我们需要判断或者限制访问的来源的时候，就可以用它。
 
@@ -41,10 +43,10 @@ RewriteCond %{HTTP_REFERER} !www.iyangyi.com [NC]
 RewriteRule \.(jpg|gif) http://image.baidu.com/ [R,NC,L]
 ```
 
-NC nocase 的意思，忽略大小写。第一句呢，是必须要有域名，第二句就是看域名如果不是 www.iyangyi.com 的，当访问. jpg 或者. gif 文件时候，就都会自动跳转到 http://image.baidu.com/ 上，很好的达到了防盗链的要求。
+NC 是 nocase 的意思，忽略大小写。第一句呢，是必须要有域名，第二句就是看域名如果不是 www.iyangyi.com 的，当访问. jpg 或者. gif 文件时候，就都会自动跳转到 http://image.baidu.com/ 上，很好的达到了防盗链的要求。
 
 
-# REQUEST_FILENAME
+## REQUEST_FILENAME
 
 哪一块属于 REQUEST_FILENAME 呢？是 url 除了 host 域名外的。
 
@@ -62,7 +64,7 @@ RewriteRule ^room/video/(\d+)\.html web/index\.php?c=room&a=video&r=$1 [QSA,NC,L
 上面 RewriteRule 正则的意思是以 room 开头的 room/video/123.html 这样子，变成 web/index.php?c=room&a=video&r=123（如果文件或路径不存在的话）
 
 
-# RewriteRule 写法和规则
+## RewriteRule 写法和规则
 
 RewriteRule 是配合 RewriteCond 一起使用，可以说，RewriteRule 是 RewriteCond 成功匹配后的执行结果。
 
@@ -104,7 +106,7 @@ sample:
 </VirtualHost>
 ```
 
-# Read more
+## Read more
 
 - [apache 的虚拟域名 rewrite 配置以及. htaccess 的使用](https://www.zybuluo.com/phper/note/73726)
 - [Apache Rewrite url 重定向功能的简单配置](http://www.jb51.net/article/24435.htm)

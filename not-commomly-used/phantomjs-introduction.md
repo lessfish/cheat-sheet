@@ -1,3 +1,5 @@
+# PhantomJS 简单介绍
+
 ## 简介
 
 [PhantomJS](http://phantomjs.org/) 是一个基于 WebKit 的服务器端 JavaScript API，它基于 BSD 开源协议发布。PhantomJS 无需浏览器的支持即可实现对 Web 的支持，且原生支持各种 Web 标准，如 DOM 处理、JavaScript、CSS 选择器、JSON、Canvas 和可缩放矢量图形 SVG。PhantomJS 主要是通过 JavaScript 和 CoffeeScript 控制 WebKit 的 CSS 选择器、可缩放矢量图形 SVG 和 HTTP 网络等各个模块，是一个 **无头浏览器**（headless browser）。而 [CasperJS](http://casperjs.org/) 封装了 PhantomJS 的 API，使其调用变的更加简单方便。（CasperJS 使得测试变的更加简单）
@@ -15,7 +17,7 @@
 ## 局限性：
 
 - 遇到验证码的情况，一般可能在登录过程中或者提交表单后
-- PhantomJS/CasperJS 提供的是一个无界面的 Webkit 内核浏览器，所以无法覆盖 IE 浏览器，目前 Gecko 内核的无界面浏览器已经有解决方案 [SlimerJS](http://slimerjs.org/)，并且支持与 PhantomJS 一模一样的 API
+- PhantomJS/CasperJS 提供的是一个无界面的 Webkit 内核浏览器，**所以无法覆盖 IE 浏览器**，目前 Gecko 内核的无界面浏览器已经有解决方案 [SlimerJS](http://slimerjs.org/)，并且支持与 PhantomJS 一模一样的 API
 
 
 ## Read more:

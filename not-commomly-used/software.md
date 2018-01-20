@@ -1,10 +1,10 @@
-# softwares I need
+# softwares
 
 ### 开发
 
-- Sublime / Atom / Notepad++
-- Fiddler
-- Broswer（Chrome、Firefox、360）
+- VSCode / Sublime / Notepad++
+- Fiddler / Charles
+- Broswer（Chrome、Firefox、Safari）
 - Wampserver
 - HeidiSQL
 - XMind / 百度脑图

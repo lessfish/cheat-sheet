@@ -6,7 +6,7 @@
 - <http://patorjk.com/software/taag/> （大量的选择，有些 font 很炫酷啊，比如 *3D-ASCII*，*Bloody* 等）
 
 
-## image to asciii
+## image to ascii
 
 - <http://y.qq.com/m/demo/ctools/charimg.html>
 
