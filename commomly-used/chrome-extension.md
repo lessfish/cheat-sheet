@@ -40,7 +40,7 @@
 ### 非开发
 
 | 名称                                       | 评分           | 简介                                       |
-| ---------------------------------------- | ------------ | ---------------------------------------- |
+| :--------------------------------------- | ------------ | ---------------------------------------- |
 | [V2EX HELPER](https://chrome.google.com/webstore/detail/v2ex-helper/ceciedfhiofnohkddfiibjieahonddjm) | :star::star: | 我为 [v2ex](https://www.v2ex.com/) 开发的增强扩展 |
 | [一键管理所有扩展](https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E7%AE%A1%E7%90%86%E6%89%80%E6%9C%89%E6%89%A9%E5%B1%95/niemebbfnfbjfojajlmnbiikmcpjkkja) | :star::star: | 管理所有扩展的扩展，轻量级                            |
 | [SimpleExtManager](https://chrome.google.com/webstore/detail/simpleextmanager/kniehgiejgnnpgojkdhhjbgbllnfkfdk) | :star::star: | 作用同上，功能更强大，支持分组                          |
