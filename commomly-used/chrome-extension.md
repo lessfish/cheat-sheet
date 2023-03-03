@@ -11,7 +11,7 @@
 | 名称                                       | 评分           | 简介                                       |
 | :--------------------------------------- | ------------ | ---------------------------------------- |
 | [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) | :star::star: | The world's most popular userscript manager |
-| [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) | :star::star: | 为任意网站自定义主题                               |
+| [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) | :star::star: | 为任意网站自定义主题。之前推荐 Stylish，但是 [[Chrome 版 Stylish 开始收集用户数据](https://news.cnblogs.com/n/560743/)]，果断卸了 |
 | [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) | :star::star: | Extension to show code tree for GitHub and GitLab. |
 | [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) | :star::star: | 个人觉得最舒服的 JSON 格式化扩展                      |
 | [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) | :star::star: | Vue.js 开发工具                              |
@@ -25,7 +25,7 @@
 | [ReRes](https://chrome.google.com/webstore/detail/reres/gieocpkbblidnocefjakldecahgeeica) | :star:       | 请求映射／proxy                               |
 | [HTML 标签检测器](https://chrome.google.com/webstore/detail/html-%E6%A0%87%E7%AD%BE%E6%A3%80%E6%B5%8B%E5%99%A8html-tag-checke/eglomijmggnafcfejliedcljabfgblia) | :star:       | HTML TAG CHECKER                         |
 | [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) | :star:       | 死链查找                                     |
-| [二维码生成器](https://chrome.google.com/webstore/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81qr%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8qr-code-generato/pflgjjogbmmcmfhfcnlohagkablhbpmg) | :star:       |                                          |
+| [二维码生成器](https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp) | :star:       |                                          |
 | [WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad) | :star:       | 前端各种小工具合集                                |
 | [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) | :star:       | 不需要打开控制台即可快速查看元素属性                       |
 | [Scratch JS](https://chrome.google.com/webstore/detail/scratch-js/alploljligeomonipppgaahpkenfnfkn) |              | Write and execute ES6/ES2015 within DevTools! |
@@ -35,7 +35,7 @@
 | [Porter Plug](https://chrome.google.com/webstore/detail/porter-plug/lngoojfoglemfpbeiomhgheccpdheilp?utm_source=chrome-app-launcher-info-dialog) |              | 以图表形式展现 GitHub repo 的 star 趋势            |
 | [Chrome Logger](https://chrome.google.com/webstore/detail/chrome-logger/noaneddfkdjfnfdakjjmocngnfkfehhd) |              | For server side logging and debugging in chrome console. |
 | [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher/dbclpoekepcmadpkeaelmhiheolhjflj) |              |                                          |
-| [PageSpeed Insights (with PNaCl)](https://chrome.google.com/webstore/detail/pagespeed-insights-with-p/lanlbpjbalfkflkhegagflkgcfklnbnh) |              | 页面优化建议                                   |
+| [PageSpeed Insights (with PNaCl)](https://chrome.google.com/webstore/detail/pagespeed-insights-with-p/lanlbpjbalfkflkhegagflkgcfklnbnh) |              | 页面优化建议／[网页端](https://developers.google.com/speed/pagespeed/insights/) |
 
 ### 非开发
 
@@ -60,6 +60,7 @@
 | [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb) | :star:       | 最优秀的广告屏蔽扩展                               |
 | [为什么你们就是不能加个空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd) | :star:       |                                          |
 | [惠惠购物助手](https://chrome.google.com/webstore/detail/%E6%83%A0%E6%83%A0%E8%B4%AD%E7%89%A9%E5%8A%A9%E6%89%8B/ohjkicjidmohhfcjjlahfppkdblibkkb) | :star:       | 同款商品价格对比                                 |
+| [Auto Copy](https://chrome.google.com/webstore/detail/auto-copy/bijpdibkloghppkbmhcklkogpjaenfkg) |              | 自动复制网页中选中的文字                             |
 | [新浪微博图床](https://chrome.google.com/webstore/detail/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%9B%BE%E5%BA%8A/fdfdnfpdplfbbnemmmoklbfjbhecpnhf) |              |                                          |
 | [Proxy SwitchySharp](https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm) |              | 轻松快捷地管理和切换多个代理设置                         |
 | [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh) |              | 模拟各种尺寸的屏幕                                |
